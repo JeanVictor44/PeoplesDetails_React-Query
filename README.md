@@ -1,8 +1,12 @@
-<p align="center">
-<h1>People Details<h1>
-</p>
-<p align="center">An app to show people details, practice React Query and Skeleton through an APId</p>
+<h1 align="center">
+People Details
+</h1>
+<p align="center">An app to show people details, practice React Query and Skeleton through an API</p>
 
+<p style='display:flex; gap:10px; justify-content:center; align-items:center;'>
+    <img src="./previews/peopleDetails.jpeg">
+    <img src="./previews/skeleton.jpeg">
+<p>
 
 ### :hammer_and_wrench: Tecnologias
 

@@ -56,6 +56,7 @@ export const GlobalStyle = createGlobalStyle `
         }
         &:disabled {
             cursor:not-allowed;
+            filter:brightness(0.8);
         } 
     }
 
